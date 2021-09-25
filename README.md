@@ -1,0 +1,2 @@
+# Twiiter_Sentiment_Analysis_Ecommerce_India
+An International E-Commerce company(Products) wants to use some of the most advanced machine learning  techniques to analyse their customers with respect to their services and some important customer success matrix. They also have future expansion plans to India. They have some specific key insights to be found out from their existing customer database.
